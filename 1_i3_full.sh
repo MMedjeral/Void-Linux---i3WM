@@ -1,0 +1,83 @@
+#!/bin/sh
+#
+xbps-install -Sy xorg \
+	AppStream \
+	adwaita-icon-theme \
+	alsa-firmware \
+	alsa-lib \
+	alsa-oss \
+	alsa-plugins \
+	alsa-plugins-ffmpeg \
+	alsa-plugins-pulseaudio \
+	alsa-tools \
+	alsa-utils \
+	arc-theme \
+	audacious \
+	audacious-plugins \
+	bluez-alsa \
+	chrony \
+	cryptsetup \
+	cups \
+	cups-filters \
+	curl \
+	elogind \
+	dbus-elogind \
+	dbus-elogind-x11 \
+	dejavu-fonts-ttf \
+	dex \
+	dialog \
+	dmenu \
+	evince \
+	exa \
+	exfat-utils \
+	faenza-icon-theme \
+	feh \
+	file-roller \
+	firefox \
+	firefox-i18n-es-ES \
+	fish-shell \
+	font-awesome \
+	font-firacode \
+	font-iosevka \
+	fonts-roboto-ttf \
+	fuse-exfat \
+	geany \
+	geany-plugins \
+	git \
+	gnome-disk-utility \
+	gnome-keyring \
+	gparted \
+	gptfdisk \
+	grub-i386-efi \
+	grub-x86_64-efi \
+	gst-libav \
+	gst-plugins-bad1 \
+	gst-plugins-base1 \
+	gst-plugins-good1 \
+	gst-plugins-ugly1 \
+	gstreamer-vaapi \
+	gvfs-afc \
+	gvfs-mtp \
+	hplip-gui \
+	i3-gaps \
+	i3blocks \
+	libappindicator \
+	libreoffice \
+	libreoffice-xtensions \
+	lm_sensors \
+	lvm2 \
+	lxappearance \
+	lxdm \
+	lyx \
+	mdadm \
+	mlocate \
+	mtools \
+	nano \
+	network-manager-applet \
+	noto-fonts-emoji \
+	noto-fonts-ttf \
+	noto-fonts-ttf-extra \
+	ntfs-3g
+
+	
+
